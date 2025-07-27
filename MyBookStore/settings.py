@@ -79,11 +79,11 @@ TEMPLATES = [
     },
 ]
 CSRF_TRUSTED_ORIGINS = [
-    "https://mybookstore-9u4e.onrender.com",
+   "https://bookstore-dcaz.onrender.com",
 ]
 
 ALLOWED_HOSTS = [
-    "mybookstore-9u4e.onrender.com",
+    "bookstore-dcaz.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
